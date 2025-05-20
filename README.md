@@ -19,7 +19,7 @@ La responsable des projets IA souhaite voir son projet adopté par les membres d
   - identifier les risques potentiels, ainsi que leur sévérité et probabilité (matrice de risques)
   - pour chaque risque: prévoir un plan de mitigation et estimer la réduction du danger
 - Enjeux légaux:
-  - identifier les organismes et systèmes d'état en encadrant l'utilisation de l'IA dans un produit commercial
+  - identifier les organismes et systèmes d'état encadrant l'utilisation de l'IA dans un produit commercial
   - étudier et respecter les lois en vigueur, effectuer les démarches administratives
 - Enjeux éthiques:
   - prévoir les potentiels impacts sociaux du produit (biais du modèle, vie privée des utilisateurs, etc.)
