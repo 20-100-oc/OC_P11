@@ -4,7 +4,7 @@
 Fashion-Insta est une entreprise du monde de la mode qui commercialise des articles vestimentaires par un réseau de magasins physiques.
 Elle dispose déjà d'un site e-commerce, mais cherche encore à accroître sa présence en ligne.
 Voici le projet identifié comme ayant le plus de potentiel: une application mobile de recommandation intelligente d'articles vestimentaires.
-La responsable des projets IA souhaite voir son projet adopté par les membres du centre de décision, elle me charge de cadrer de présenter le projet.
+La responsable des projets IA souhaite voir son projet adopté par les membres du centre de décision, elle me charge de cadrer le projet.
 
 ## Objectifs
 - Définir le backlog de l'application:
